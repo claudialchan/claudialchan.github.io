@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "University of California, Los Angeles (UCLA) | Los Angeles, CA  B.S. in Statistics & Data Science & B.A. in Economics | Expected June 2026\n\nCumulative GPA: 3.95/4.00\nHonors: FWC Scholarship recipient, Dean’s Honor List.\nRelevant Skills: Economic Data Analysis, Statistical Modeling, Teamwork.\n\n\n\nSt Stephen’s College | Hong Kong  HKDSE | Sept 2017 - July 2023\n\nHonors: Valedictorian, Full Scholarship.\nAwards: Senior All-round Outstanding Girl of the Year, Model Student Award Recipient."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "University of California, Los Angeles (UCLA) | Los Angeles, CA  B.S. in Statistics & Data Science & B.A. in Economics | Expected June 2026\n\nCumulative GPA: 3.95/4.00\nHonors: FWC Scholarship recipient, Dean’s Honor List.\nRelevant Skills: Economic Data Analysis, Statistical Modeling, Teamwork.\n\n\n\nSt Stephen’s College | Hong Kong  HKDSE | Sept 2017 - July 2023\n\nHonors: Valedictorian, Full Scholarship.\nAwards: Senior All-round Outstanding Girl of the Year, Model Student Award Recipient."
+  },
+  {
+    "objectID": "about.html#interests-exploration",
+    "href": "about.html#interests-exploration",
+    "title": "About Me",
+    "section": "🌟 Interests & Exploration",
+    "text": "🌟 Interests & Exploration\n\n\n🏃 Athletics\nI enjoy running, hiking, and attending basketball and volleyball games.\n\n\n✈️ Traveling\nI love exploring new cultures and trying diverse cuisines on my culinary adventures.\n\n\n🤝 Community\nI’m passionate about building connections through UCLA, HKSS, and volunteering.\n\n\n\n\n\n“I bring curiosity, clear communication, and a collaborative mindset to every project, and I’m always eager to keep learning while building something that matters.”"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Claudia Chan",
+    "section": "",
+    "text": "Hi, I am Claudia! I am a UCLA student pursuing a double major in Statistics & Data Science and Economics.\nMy professional journey is driven by a genuine passion for using data and code to bring clarity to complex challenges. From developing tools that modernize student learning to analyzing engagement patterns for mission-driven organizations, I specialize in turning raw information into strategic impact.\nI thrive at the intersection of technical thinking and real-world strategy — where thoughtful analysis guides decisions and creates meaningful results."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "I am always open to discussing new opportunities, data science projects, or collaborative research. Feel free to reach out through any of the platforms below!"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact Me",
+    "section": "📬 Get In Touch",
+    "text": "📬 Get In Touch\n\nLinkedIn: linkedin.com/in/claudia-leann-chan/\nGitHub: github.com/claudialchan"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Co-developer | UCLA Department of Statistics & Data Science\n\nObjective: Modernizing statistics education by replacing static tables with interactive tools.\nImpact: Used by 500+ students annually for distribution and hypothesis tests.\nFeatures: Live reactive outputs at \\(\\alpha = 0.01, 0.05, 0.10\\).\nTools: R (shinythemes, ggplot2), GitHub.\n\nView Live App | GitHub Repository"
+  },
+  {
+    "objectID": "projects.html#featured-research-development",
+    "href": "projects.html#featured-research-development",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Co-developer | UCLA Department of Statistics & Data Science\n\nObjective: Modernizing statistics education by replacing static tables with interactive tools.\nImpact: Used by 500+ students annually for distribution and hypothesis tests.\nFeatures: Live reactive outputs at \\(\\alpha = 0.01, 0.05, 0.10\\).\nTools: R (shinythemes, ggplot2), GitHub.\n\nView Live App | GitHub Repository"
+  },
+  {
+    "objectID": "projects.html#modeling-machine-learning",
+    "href": "projects.html#modeling-machine-learning",
+    "title": "Portfolio",
+    "section": "📊 Modeling & Machine Learning",
+    "text": "📊 Modeling & Machine Learning\n\nConsumer Behavior & Household Size Prediction\nKaggle Regression Competition\n\nProblem: Predicting customer household size—a key factor for targeted advertising—using only initial sign-up data and Amazon purchasing history.\nApproach: Developed a Random Forest model with extensive feature engineering, including keyword sentiment analysis for “bulk” or “family” items and gender-ratio logic based on purchase logs.\nFeatures: Optimized model performance using Permutation Importance and residual analysis to minimize Root-Mean-Squared-Error (RMSE).\nTools: R (ranger,dplyr, tidyr, xgboost), Kaggle.\n\nView on Kaggle\n\n\nMonopoly Game Simulation\n\nProblem: Determining long-term landing frequencies for properties involving non-random movement like Jail and Chance cards.\nApproach: Built a Monte Carlo simulation engine using R6 classes to execute thousands of virtual turns and calculate exact landing distributions.\nTools: R (R6, ggplot2), Monte Carlo Methods, Github."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Data Analyst | DataTalks Consulting\n\n\nOct 2024 – Present\n\n\nLos Angeles, CA\n\nAnalyzed website engagement for NGOs, uncovering insights that guided UX redesigns.\nCreated interactive Tableau dashboards to visualize social media performance.\nSynthesized stakeholder findings into actionable recommendations for fundraising.\n\n\n\n\n\nDigital Strategy & Transformation Intern | Swire Coca-Cola\n\n\nJuly 2025 – Aug 2025\n\n\nHong Kong SAR\n\nEvaluated engagement on global platforms and developed a rewards-based roadmap.\nBuilt Power BI dashboards to track operational performance and inform strategy.\nAssisted in the rollout of AI initiatives, including an IT Helpdesk Chatbot.\n\n\n\n\n\nData Science Intern | UCLA Department of Statistics & Data Science\n\n\nJan 2025 – June 2025\n\n\nLos Angeles, CA\n\nCo-developed the UCLA Stats Calculator, an R Shiny app used by 500+ students.\nImplemented reactive hypothesis test outputs and mobile-responsive UI enhancements.\nLed discussion sections and hosted office hours to facilitate student learning in R."
+  },
+  {
+    "objectID": "experience.html#professional-experience",
+    "href": "experience.html#professional-experience",
+    "title": "Experience",
+    "section": "",
+    "text": "Data Analyst | DataTalks Consulting\n\n\nOct 2024 – Present\n\n\nLos Angeles, CA\n\nAnalyzed website engagement for NGOs, uncovering insights that guided UX redesigns.\nCreated interactive Tableau dashboards to visualize social media performance.\nSynthesized stakeholder findings into actionable recommendations for fundraising.\n\n\n\n\n\nDigital Strategy & Transformation Intern | Swire Coca-Cola\n\n\nJuly 2025 – Aug 2025\n\n\nHong Kong SAR\n\nEvaluated engagement on global platforms and developed a rewards-based roadmap.\nBuilt Power BI dashboards to track operational performance and inform strategy.\nAssisted in the rollout of AI initiatives, including an IT Helpdesk Chatbot.\n\n\n\n\n\nData Science Intern | UCLA Department of Statistics & Data Science\n\n\nJan 2025 – June 2025\n\n\nLos Angeles, CA\n\nCo-developed the UCLA Stats Calculator, an R Shiny app used by 500+ students.\nImplemented reactive hypothesis test outputs and mobile-responsive UI enhancements.\nLed discussion sections and hosted office hours to facilitate student learning in R."
+  },
+  {
+    "objectID": "experience.html#leadership-volunteering",
+    "href": "experience.html#leadership-volunteering",
+    "title": "Experience",
+    "section": "🏛 Leadership & Volunteering",
+    "text": "🏛 Leadership & Volunteering\n\n\n\nInternal Vice President | UCLA Hong Kong Student Society\n\n\nSept 2023 – Present\n\n\n\nCoordinated society operations and 20+ annual events for 300+ members.\nFormer Marketing Director; expanded social reach to 200k+ monthly views.\n\n\n\n\n\nTax Assistant | Volunteer Income Tax Assistance (VITA)\n\n\nSept 2024 – June 2025\n\n\n\nPrepared federal and state tax returns using professional software.\nObtained IRS VITA/TCE Advanced Certifications."
+  }
+]
